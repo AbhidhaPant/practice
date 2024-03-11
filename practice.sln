@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTouch", "LeanTouch.csproj", "{B3E25405-A798-8841-D857-4A94C333C9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCommon", "LeanCommon.csproj", "{F9E2736A-E976-0149-08CE-1B5F494C0375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorMigrationScripts", "EditorMigrationScripts.csproj", "{7B648D3F-020D-9617-BC37-FDF53A61277F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E25405-A798-8841-D857-4A94C333C9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E25405-A798-8841-D857-4A94C333C9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E25405-A798-8841-D857-4A94C333C9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E25405-A798-8841-D857-4A94C333C9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E2736A-E976-0149-08CE-1B5F494C0375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E2736A-E976-0149-08CE-1B5F494C0375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E2736A-E976-0149-08CE-1B5F494C0375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E2736A-E976-0149-08CE-1B5F494C0375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B648D3F-020D-9617-BC37-FDF53A61277F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B648D3F-020D-9617-BC37-FDF53A61277F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B648D3F-020D-9617-BC37-FDF53A61277F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B648D3F-020D-9617-BC37-FDF53A61277F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
